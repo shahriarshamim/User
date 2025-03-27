@@ -32,3 +32,4 @@ H:\Ostad_Asp.Net\Assignment on Week-4\User\User\obj\Debug\net8.0\refint\User.dll
 H:\Ostad_Asp.Net\Assignment on Week-4\User\User\obj\Debug\net8.0\User.pdb
 H:\Ostad_Asp.Net\Assignment on Week-4\User\User\obj\Debug\net8.0\User.genruntimeconfig.cache
 H:\Ostad_Asp.Net\Assignment on Week-4\User\User\obj\Debug\net8.0\ref\User.dll
+H:\Ostad_Asp.Net\Assignment on Week-4\User\User\obj\Debug\net8.0\User.sourcelink.json
