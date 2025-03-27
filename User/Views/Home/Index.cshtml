@@ -6,18 +6,6 @@
         $.get("https://dummyjson.com/users", function(data, status) {
             
             $.each(data.users, function(index,obj) {
-                // var pdData = `<div class="col">
-                //         <div class="card" style="width: 18rem;cursor:pointer" >
-                //                     <img src="${obj.image}" class="card-img-top" alt="...">
-                //             <div class="card-body">
-                //                         <h5 class="card-title">Username: ${obj.username}</h5>
-                //                     <p class="card-text">Email: ${obj.email}</p>                                
-                //                     <p class="card-text">Age: ${obj.age}</p>                                
-                                        
-                //             </div>
-                //     </div>
-                // </div>`;
-
                         var pdData = `<table class="table table-dark table-striped">
                                           <thead>
                                             <tr>          
